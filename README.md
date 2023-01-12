@@ -7,13 +7,14 @@
 - The program reads the input image from the `images` directiry 
 ![](./images/HW1_input.jpg)
 
-## Outputs 
-- The program saves the output image in tehe `images` directory with name `HW1_output.png`
-
 ## Reference image 
 - In the `images` directory, you can find expected output image with name `HW1_reference.png`
 - Also, the program use it to compare your output image with it.
 ![](./images/HW1_reference.png)
+
+## Outputs 
+- The program saves the output image in tehe `images` directory with name `HW1_output.png`
+- `HW1_differenceImage.png` image will show the difference between your output image and the reference image
 
 ## Building 
 
