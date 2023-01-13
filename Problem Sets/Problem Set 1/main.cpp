@@ -27,8 +27,8 @@ int main(int argc, char **argv) {
   double globalError   = 0.0;
   bool useEpsCheck = false;
 
-  freopen("output.txt", "w", stdout);
-	freopen("error.txt", "w", stderr);
+/*   freopen("output.txt", "w", stdout);
+	freopen("error.txt", "w", stderr); */
 
   // Load images
   input_file     = "../images/HW1_input.jpg";
